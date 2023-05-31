@@ -1,6 +1,6 @@
 # LP12DPBO2023C2
 ## *Janji*
-Saya Mohammad Labib Husain mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Mohammad Labib Husain mengerjakan Latihan Praktikum 12 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 ## *Penjelasan*
 Di dalam permainan ini, ada objek-objek yang ada di dalam permainan (player dan box.). Ini adalah bagian Model dalam MVP.
 
